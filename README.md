@@ -1,4 +1,3 @@
-File to run is app.py
 # python-path-visualiser 
 
 ## About
